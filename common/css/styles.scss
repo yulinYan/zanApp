@@ -1,0 +1,26 @@
+// 头部字体设置
+.u-navbar-inner{
+  height: 80rpx !important;
+  .u-navbar-content-title{
+    .u-title{
+      font-size: 34rpx !important;
+    }
+  }
+  .right-item{
+    float: right;
+    margin-right: 20rpx;
+  }
+}
+// 顶部高度设置
+.headersty{
+  height: 120rpx !important;
+}
+.scansty{
+  position: relative;
+}
+.iconsty {
+  right: 25rpx !important;
+}
+.from-item{
+  position: relative;
+}
